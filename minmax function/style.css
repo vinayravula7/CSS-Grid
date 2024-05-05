@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+   border: 5px solid black;
+}
+.cell{
+    padding: 2rem;
+    background-color: gray;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    border: 3px solid red;
+    color: white;
+}
+.cell-1{
+    background-color: #faebd7;
+}
+.cell-2{
+    background-color: #7fffd4;
+}
+.cell-3{
+    background-color: #2121b5;
+}
+.cell-4{
+    background-color: #a0184a;
+}
+.cell-5{
+    background-color: #18819e;
+}
+.cell-6{
+    background-color: #b17322;
+}
+.cell-7{
+    background-color: #181410;
+}
